@@ -22,7 +22,7 @@ S. Klikovits is also supported by Grant-in-Aid for Research Activity Start-up 20
 ```
 @inproceedings{klikovits:2021:knnAveraging
   author       = {Klikovits, Stefan and Arcaini, Paolo},
-  title        = {KNN-Averaging for Noisy Multi-Objective Optimisation},
+  title        = {{KNN-Averaging for Noisy Multi-Objective Optimisation}},
   year         = {2021},
   booktitle    = {Proc. 14th Intl. Conf. on the Quality of Information and Communications Technology (QUATIC)},
   publisher    = {Springer},
