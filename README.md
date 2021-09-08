@@ -33,6 +33,7 @@ S. Klikovits is also supported by Grant-in-Aid for Research Activity Start-up 20
   location= {Faro, Portugal (Online)},
   doi={10.1007/978-3-030-85347-1_36},
   year={2021}
+}
 ```
 
 ## In this repository
