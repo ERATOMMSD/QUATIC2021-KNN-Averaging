@@ -20,7 +20,7 @@ S. Klikovits is also supported by Grant-in-Aid for Research Activity Start-up 20
 
 (Preliminary) Bibtex:
 ```
-@InProceedings{KlikovitsA2021knnAveraging
+@InProceedings{KlikovitsA2021knnAveraging,
   author={Klikovits, Stefan and Arcaini, Paolo},
   title= {{KNN-Averaging for Noisy Multi-Objective Optimisation}},
   editor={Paiva, Ana C. R. and Cavalli, Ana Rosa and Ventura Martins, Paula and P{\'e}rez-Castillo, Ricardo},
