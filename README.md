@@ -39,6 +39,7 @@ S. Klikovits is also supported by Grant-in-Aid for Research Activity Start-up 20
 ## In this repository
 
 * [`KlikovitsArcaini-KNNAvgForNoisyNoisyMOO.pdf`](./KlikovitsArcaini-KNNAvgForNoisyNoisyMOO.pdf) Preprint of the paper.
+* [`Klikovits-Arcaini2021_KNNAvg_QUATIC_slides.pdf`](./Klikovits-Arcaini2021_KNNAvg_QUATIC_slides.pdf) Slide deck used for the presentation at QUATIC.
 * [`requirements.txt`](./requirements.txt): Python dependencies. Install via `pip install -r requirements.txt`
 * [`main.py`](./main.py): Entrypoint for search. To alter search settings, modify `create_settings_and_run()` function.
 * [`knn_wrapper.py`](./knn_wrapper.py) Wrapper for [Pymoo](https://pymoo.org/) benchmark problems. Use via `knn_wrapper.wrap_problem(knn_wrapper.KNNAvgMixin, zdt.ZDT1, ...)`.
